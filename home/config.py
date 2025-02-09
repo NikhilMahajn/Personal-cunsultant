@@ -1,6 +1,6 @@
 from google import genai
 
-API_KEY = "AIzaSyBD3ObM2aW7npFlPzBUm7vxENWwocYTmiA"
+API_KEY = "YOUR_API_KEY"
 
 # from google import genai
 
