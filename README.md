@@ -1,5 +1,5 @@
 # Personal-cunsultant
-this Prject aims to solve problems of computer science , helthcare by providing answers to quetions. In this project the gemini api is integrated and response are generated through api
+this Project aims to solve problems of computer science , helthcare by providing answers to quetions. In this project the gemini api is integrated and response are generated through api
 The project is based on Django Framework and provides user authentication 
 
 ![Screenshot (117)](https://github.com/user-attachments/assets/87229635-08cb-45dd-837c-905cfabedb7f)
